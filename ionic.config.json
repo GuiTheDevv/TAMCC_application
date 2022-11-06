@@ -1,0 +1,7 @@
+{
+  "name": "TAMCC_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
