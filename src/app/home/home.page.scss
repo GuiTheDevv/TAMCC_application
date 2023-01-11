@@ -1,5 +1,127 @@
 ion-content{
-  --background: blue;
+--background: #414C84;
+
+}
+
+button.header-info{
+  width: 380px;
+  height: 113px;
+  left: 11px;
+  top: 62px;
+  
+  background: #A8C0FF;
+  border-radius: 25px;
+  color: black;
+  text-align: left;
+}
+
+.cumulative{
+width: 195px;
+height: 195px;
+left: 11px;
+top: 187px;
+
+background: #A8C0FF;
+border-radius: 25px;
+}
+
+.semester{
+width: 195px;
+height: 195px;
+left: 221px;
+top: 187px;
+
+background: #A8C0FF;
+border-radius: 25px;
+
+}
+
+.buttons{
+width: 405px;
+height: 515px;
+left: 11px;
+top: 394px;
+
+background: #A8C0FF;
+border-radius: 25px;
+
+}
+
+.btn-map{
+width: 174px;
+height: 150px;
+left: 25px;
+top: 80px;
+
+background: rgba(66, 66, 66, 0.75);
+mix-blend-mode: overlay;
+box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+}
+
+.btn-grades{
+width: 179px;
+height: 150px;
+left: 221px;
+top: 407px;
+
+background: rgba(66, 66, 66, 0.75);
+mix-blend-mode: overlay;
+box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+
+}
+
+.btn-classes{
+width: 174px;
+height: 150px;
+left: 25px;
+top: 576px;
+
+background: rgba(66, 66, 66, 0.75);
+mix-blend-mode: overlay;
+box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+
+}
+
+.btn-to-do-list{
+width: 174px;
+height: 150px;
+left: 221px;
+top: 576px;
+
+background: rgba(66, 66, 66, 0.75);
+mix-blend-mode: overlay;
+box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+
+}
+
+.btn-events{
+  width: 174px;
+  height: 150px;
+  left: 25px;
+  top: 746px;
+  
+  background: rgba(66, 66, 66, 0.75);
+  mix-blend-mode: overlay;
+  box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  
+}
+
+.btn-question{
+  width: 174px;
+  height: 150px;
+  left: 221px;
+  top: 746px;
+  
+  background: rgba(66, 66, 66, 0.75);
+  mix-blend-mode: overlay;
+  box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  
 }
 
 #container {
