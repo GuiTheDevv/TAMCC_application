@@ -1,13 +1,16 @@
 ion-content{
 --background: #414C84;
-
 }
 
-button.header-info{
-  width: 380px;
-  height: 113px;
-  left: 11px;
-  top: 62px;
+.header-info{
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: 1em;
+  right: 1em;
+  top: 3em;
+  bottom: 83%;
+
   
   background: #A8C0FF;
   border-radius: 25px;
@@ -15,21 +18,26 @@ button.header-info{
   text-align: left;
 }
 
+
 .cumulative{
-width: 195px;
-height: 195px;
-left: 11px;
-top: 187px;
+position: absolute;
+width: auto;
+height: 20%;
+left: 1em;
+right: 51.5%;
+top: 18.3%;
 
 background: #A8C0FF;
 border-radius: 25px;
 }
 
 .semester{
-width: 195px;
-height: 195px;
-left: 221px;
-top: 187px;
+position: absolute;
+width: auto;
+height: 20%;
+right: 1em;
+left: 51.5%;
+top: 18.3%;
 
 background: #A8C0FF;
 border-radius: 25px;
@@ -37,10 +45,13 @@ border-radius: 25px;
 }
 
 .buttons{
-width: 405px;
-height: 515px;
-left: 11px;
-top: 394px;
+position: absolute;
+width: auto;
+height: auto;
+bottom: 2em;
+left: 1em;
+right: 1em;
+top: 39.7%;
 
 background: #A8C0FF;
 border-radius: 25px;
@@ -48,10 +59,14 @@ border-radius: 25px;
 }
 
 .btn-map{
-width: 174px;
-height: 150px;
-left: 25px;
-top: 80px;
+  position: absolute;
+  width: auto;
+  height: 28%;
+  margin: 0.5em;
+  top: 1em;
+  bottom: 80%;
+  left: 1em;
+  right: 50%;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -60,10 +75,14 @@ border-radius: 25px;
 }
 
 .btn-grades{
-width: 179px;
-height: 150px;
-left: 221px;
-top: 407px;
+  position: absolute;
+  width: auto;
+  height: 28%;
+  margin: 0.5em;
+  top: 1em;
+  bottom: 80%;
+  right: 1em;
+  left: 50%;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -73,10 +92,14 @@ border-radius: 25px;
 }
 
 .btn-classes{
-width: 174px;
-height: 150px;
-left: 25px;
-top: 576px;
+  position: absolute;
+  width: auto;
+  height: 28%;
+  margin: 0.5em;
+  bottom: 35%;
+  top: 34.5%;
+  left: 1em;
+  right: 50%;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -86,10 +109,14 @@ border-radius: 25px;
 }
 
 .btn-to-do-list{
-width: 174px;
-height: 150px;
-left: 221px;
-top: 576px;
+  position: absolute;
+  width: auto;
+  height: 28%;
+  margin: 0.5em;
+  bottom: 35%;
+  top: 34.5%;
+  right: 1em;
+  left: 50%;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -99,10 +126,13 @@ border-radius: 25px;
 }
 
 .btn-events{
-  width: 174px;
-  height: 150px;
-  left: 25px;
-  top: 746px;
+  position: absolute;
+  width: auto;
+  height: 28%;
+  margin: 0.5em;
+  bottom: 1em;
+  left: 1em;
+  right: 50%;
   
   background: rgba(66, 66, 66, 0.75);
   mix-blend-mode: overlay;
@@ -112,10 +142,13 @@ border-radius: 25px;
 }
 
 .btn-question{
-  width: 174px;
-  height: 150px;
-  left: 221px;
-  top: 746px;
+  position: absolute;
+  width: auto;
+  height: 28%;
+  margin: 0.5em;
+  bottom: 1em;
+  right: 1em;
+  left: 50%;
   
   background: rgba(66, 66, 66, 0.75);
   mix-blend-mode: overlay;
