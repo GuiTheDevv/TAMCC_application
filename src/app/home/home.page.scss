@@ -1,16 +1,13 @@
 ion-content{
 --background: #414C84;
+
 }
 
-.header-info{
-  position: absolute;
-  width: auto;
-  height: auto;
-  left: 1em;
-  right: 1em;
-  top: 3em;
-  bottom: 83%;
-
+button.header-info{
+  width: 380px;
+  height: 113px;
+  left: 11px;
+  top: 62px;
   
   background: #A8C0FF;
   border-radius: 25px;
@@ -18,26 +15,21 @@ ion-content{
   text-align: left;
 }
 
-
 .cumulative{
-position: absolute;
-width: auto;
-height: 20%;
-left: 1em;
-right: 51.5%;
-top: 18.3%;
+width: 195px;
+height: 195px;
+left: 11px;
+top: 187px;
 
 background: #A8C0FF;
 border-radius: 25px;
 }
 
 .semester{
-position: absolute;
-width: auto;
-height: 20%;
-right: 1em;
-left: 51.5%;
-top: 18.3%;
+width: 195px;
+height: 195px;
+left: 221px;
+top: 187px;
 
 background: #A8C0FF;
 border-radius: 25px;
@@ -45,13 +37,10 @@ border-radius: 25px;
 }
 
 .buttons{
-position: absolute;
-width: auto;
-height: auto;
-bottom: 2em;
-left: 1em;
-right: 1em;
-top: 39.7%;
+width: 405px;
+height: 515px;
+left: 11px;
+top: 394px;
 
 background: #A8C0FF;
 border-radius: 25px;
@@ -59,14 +48,10 @@ border-radius: 25px;
 }
 
 .btn-map{
-  position: absolute;
-  width: auto;
-  height: 28%;
-  margin: 0.5em;
-  top: 1em;
-  bottom: 80%;
-  left: 1em;
-  right: 50%;
+width: 174px;
+height: 150px;
+left: 25px;
+top: 80px;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -75,14 +60,10 @@ border-radius: 25px;
 }
 
 .btn-grades{
-  position: absolute;
-  width: auto;
-  height: 28%;
-  margin: 0.5em;
-  top: 1em;
-  bottom: 80%;
-  right: 1em;
-  left: 50%;
+width: 179px;
+height: 150px;
+left: 221px;
+top: 407px;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -92,14 +73,10 @@ border-radius: 25px;
 }
 
 .btn-classes{
-  position: absolute;
-  width: auto;
-  height: 28%;
-  margin: 0.5em;
-  bottom: 35%;
-  top: 34.5%;
-  left: 1em;
-  right: 50%;
+width: 174px;
+height: 150px;
+left: 25px;
+top: 576px;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -109,14 +86,10 @@ border-radius: 25px;
 }
 
 .btn-to-do-list{
-  position: absolute;
-  width: auto;
-  height: 28%;
-  margin: 0.5em;
-  bottom: 35%;
-  top: 34.5%;
-  right: 1em;
-  left: 50%;
+width: 174px;
+height: 150px;
+left: 221px;
+top: 576px;
 
 background: rgba(66, 66, 66, 0.75);
 mix-blend-mode: overlay;
@@ -126,13 +99,10 @@ border-radius: 25px;
 }
 
 .btn-events{
-  position: absolute;
-  width: auto;
-  height: 28%;
-  margin: 0.5em;
-  bottom: 1em;
-  left: 1em;
-  right: 50%;
+  width: 174px;
+  height: 150px;
+  left: 25px;
+  top: 746px;
   
   background: rgba(66, 66, 66, 0.75);
   mix-blend-mode: overlay;
@@ -142,13 +112,10 @@ border-radius: 25px;
 }
 
 .btn-question{
-  position: absolute;
-  width: auto;
-  height: 28%;
-  margin: 0.5em;
-  bottom: 1em;
-  right: 1em;
-  left: 50%;
+  width: 174px;
+  height: 150px;
+  left: 221px;
+  top: 746px;
   
   background: rgba(66, 66, 66, 0.75);
   mix-blend-mode: overlay;
